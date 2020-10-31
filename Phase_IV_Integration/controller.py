@@ -15,7 +15,7 @@ class Controller:
 
     def run(self) -> None:
         for index, frame_path in enumerate(self.frames_paths):
-            self.tfl_manager.on_frame(index + 24, frame_path[:-1])      
+            self.tfl_manager.on_frame(index + 24, frame_path[:-1])
 
 
 def main():
