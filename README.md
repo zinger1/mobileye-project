@@ -1,6 +1,9 @@
-# Mobileye (~120h challenge):
+## Mobileye (~120h challenge):
 
-
+# Team Members:
+Chaya Rubinshtein
+Chaya Altman
+Miriam Zinger
 
 Detecting traffic lights and the distance to them on runtime within given video using image processing and machine learning, in a long project separated into 4 parts using Python:
 
@@ -13,7 +16,7 @@ Generating and training CNN using the products of the previous stage as input, t
 # Phase_III - Find the distance of the Traffic Lights
 Estimating the distance to each detected traffic light from the camera picturing the images of interest, involving geometric and linear algebra calculations.
 
-# Phase_IV - Integration
+# Phase_IV - Software Integration
 Integrating all previous parts into a functional and intuitive SW product.
 
 
